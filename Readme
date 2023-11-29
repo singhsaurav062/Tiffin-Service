@@ -1,0 +1,7 @@
+Steps to run it on your PC:
+
+S1: Download the repo in your PC.
+S2: Download XAMPP Control Panel Server from Googgle.
+S3: Save it inside XAMPP folder under "htdocs".
+S4: Run Server Apache and MySQL from Control Panel.
+S5: Start project by using localhost:3000 followed by the index.php destination
